@@ -56,12 +56,12 @@
     "webpack-cli": "^3.3.6"
   },
   "dependencies": {
-    "@emotion/core": "^10.0.28",
-    "@types/lodash": "^4.14.168",
-    "@types/pako": "^1.0.1",
+    "@emotion/core": "^10.3.1",
+    "@types/lodash": "^4.14.182",
+    "@types/pako": "^1.0.4",
     "lodash": "^4.17.21",
-    "pako": "^1.0.11",
-    "react-intl": "^5.17.2",
+    "pako": "^2.0.4",
+    "react-intl": "^6.0.5",
     "traverse": "^0.6.6"
   }
 }

@@ -12,5 +12,12 @@
     "moduleResolution": "node",
     "skipLibCheck": true
   },
-  "exclude": ["dist", "node_modules", ".cache", ".cache-loader", ".next", "chrome-extension"]
+  "exclude": [
+    "dist",
+    "node_modules",
+    ".cache",
+    ".cache-loader",
+    ".next",
+    "chrome-extension"
+  ]
 }
